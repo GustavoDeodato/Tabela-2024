@@ -1,0 +1,9 @@
+th, td{
+    border: 3px solid rgb(160 160 160)
+  } 
+  /* usado para definir as bordas */
+  img{
+    width: 75px;
+  }
+  
+  /* usado para definir o tamanho das imagens */
